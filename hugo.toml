@@ -2,3 +2,12 @@ baseURL = 'https://ernestoallely.github.io/mangayanime'
 locale = 'es-es'
 title = 'Fragmentos Manga y Anime'
 theme = "PaperMod"
+
+paginate = 10
+
+[params]
+  description = "Reseñas breves, fragmentos de anime y manga."
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
